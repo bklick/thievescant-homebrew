@@ -1,0 +1,17 @@
+{
+	"name": "thieves-cant-homebrew",
+	"title": "Thieves Can't Homebrew",
+	"description": "Homebrew content for D&D 5e from www.yesthievescan.com",
+	"version": "1.0.0",
+	"minimumCoreVersion": "9",
+	"compatibleCoreVersion": "9",
+	"author": "IronMonk",
+	"authors": [{
+		"name": "Bart",
+		"discord": "Bart_Thievescant#2089",
+		"patreon": "https://www.patreon.com/thievescant",
+	}],
+	"url": "https://github.com/ironmonk88/monks-little-details",
+	"download": "https://github.com/bklick/thievescant-homebrew/blob/main/thieves-cant-homebrew.zip",
+	"manifest": "https://github.com/bklick/thievescant-homebrew/blob/main/thieves-cant-homebrew/module.json",
+}
