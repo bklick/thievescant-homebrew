@@ -1,0 +1,25 @@
+{
+  "name": "thieves-cant-homebrew",
+  "title": "Thieves Can't Homebrew",
+  "description": "<p>Homebrew content from <a href=\"http://www.yesthievescan.com\" target=\"_blank\">www.yesthievescan.com</a> 
+  "version": "1.0",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "9",
+  "author": "Bartholomew Klick",
+  "packs": [
+    {
+      "name": "item-1-tc-classes",
+      "label": "TC-Classes",
+      "path": "packs/item-1-tc-classes.db",
+      "entity": "Item",
+      "package": "forge-vtt-shared-compendiums-thieves-cant-homebrew"
+    },
+    {
+      "name": "open-gaming-license",
+      "label": "Open Gaming License",
+      "path": "packs/open-gaming-license.db",
+      "entity": "Journal",
+      "package": "forge-vtt-shared-compendiums-thieves-cant-homebrew"
+    }
+  ]
+}
