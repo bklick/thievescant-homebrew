@@ -7,4 +7,7 @@ For right now, it only includes one subclass - the Nightingale.
 Thanks for using my stuff!
 
 Bartholomew Klick
-Midnight, 8-31-2022
+
+Midnight
+
+8-31-2022
